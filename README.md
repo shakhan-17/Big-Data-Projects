@@ -56,6 +56,4 @@ This repository contains projects related to Big Data, focusing on recommender s
 
 ## Contributors
 - Md Shamsul Arif Khan
-
-## Supervisor
-- Ceni Babaoglu
+- Ceni Babaoglu (Project Supervisor)
